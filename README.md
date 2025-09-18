@@ -1,7 +1,9 @@
 
-# 🇧🇩 Bangla Sentiment Analyzer (BERT + ONNX + LIME)
+# 🇧🇩 BornoLens: Bangla Sentiment Analyzer (BERT + ONNX + LIME)
 
 A web-based Bengali sentiment classifier with explainable AI support. This app uses a fine-tuned [Bangla BERT model](https://huggingface.co/sagorsarker/bangla-bert-base) exported to ONNX for fast inference. It classifies Bengali texts into harmful content categories and highlights the most influential words using **LIME**.
+
+Live Link: https://bornolens.com/
 
 ---
 
