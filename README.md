@@ -3,7 +3,7 @@
 
 A web-based Bengali sentiment classifier with explainable AI support. This app uses a fine-tuned [Bangla BERT model](https://huggingface.co/sagorsarker/bangla-bert-base) exported to ONNX for fast inference. It classifies Bengali texts into harmful content categories and highlights the most influential words using **LIME**.
 
-Live Link: https://bornolens.com/
+### Live Link: https://bornolens.com/
 
 Note: Updated the UI and deployed in server for better user experience (React + Django + MySQL).
 
