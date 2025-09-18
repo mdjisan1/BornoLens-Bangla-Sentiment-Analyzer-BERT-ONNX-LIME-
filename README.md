@@ -5,6 +5,7 @@ A web-based Bengali sentiment classifier with explainable AI support. This app u
 
 Live Link: https://bornolens.com/
 Note: Updated the UI and deployed in server for better user experience (React + Django + MySQL).
+
 ---
 
 ## 📖 Table of Contents
