@@ -197,11 +197,13 @@ This project is licensed under the **MIT License**.
 
 ## 🙋‍♂️ Author
 
+**Md Jisan Ahmed**  
+📧 [jisan3325@gmail.com]  
+
 **Isha Das**  
 📧 [isha@idtechsolutionsbd.com]  
 
-**Md Jisan Ahmed**  
-📧 [jisan3325@gmail.com]  
+
 
 ---
 
